@@ -20,8 +20,7 @@ const ThingsILove = () => (
       </CardIcon>
       <CardTitle>FrontEnd</CardTitle>
       <CardText>
-        I'm more front end focused and love to work with Reactjs as well as pure
-        HTML, CSS.
+        I'm a frontend focused developer and love to work with Flutter, Angular, and React.
       </CardText>
     </Card>
 
@@ -31,8 +30,8 @@ const ThingsILove = () => (
       </CardIcon>
       <CardTitle>Javascript</CardTitle>
       <CardText>
-        I just extremely love javascript, I can’t even express how much I love
-        javascript with just a few lines.
+        I just extremely love python, I can’t even express how much I love
+        python with just a few lines.
       </CardText>
     </Card>
 
@@ -42,7 +41,7 @@ const ThingsILove = () => (
       </CardIcon>
       <CardTitle>Creative Coding</CardTitle>
       <CardText>
-        I love creative coding because I do both coding & designing. making
+        I love creative coding because I do both coding & designing, making
         beautiful art with code is very satisfying to me.
       </CardText>
     </Card>
