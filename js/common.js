@@ -27,14 +27,15 @@ $(document).ready(function () {
 
         sliderDetails.on('init reInit', function (event, slick, currentSlide, nextSlide) {
             var activeYear = 3;
-            year.eq(activeYear).addClass('active');
+            year.eq(0).addClass('active');
+
         });
 
         sliderDetails.slick({
             slidesToShow: 1,
             slidesToScroll: 1,
-            initialSlide: 3,
-            dots: false,
+            initialSlide: 0,
+            dots: true,
             arrows: true,
             prevArrow: sliderDetails.parents('.js-details').find('.js-prev'),
             nextArrow: sliderDetails.parents('.js-details').find('.js-next'),
